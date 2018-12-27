@@ -1,7 +1,8 @@
 #### R
 * A freshly installed **r** language is called **base R**
 * We can install packages or libraries to help us with many tasks
-    ```Ex for installing a package
+    * Ex for installing a package
+    ```
         install.packages("dslabs")
         #This will install a package called dslabs.
     ```
@@ -70,4 +71,4 @@
     * Starts with a letter
     * Shouldn't have space
     * Avoid using already used or native names of R
-* ** Data Types **
+* **Data Types**
